@@ -1,6 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Welcome%20MoonKi's%20Git&animation=fadeIn&fontColor=181a3e&fontSize=60" />
-    </div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Moonki's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
     
 
 <div style="text-align: left;">
