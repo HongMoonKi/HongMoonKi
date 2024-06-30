@@ -1,9 +1,7 @@
-
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20World%20I'm%20MoonKi&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Welcome%20MoonKi's%20Git&animation=fadeIn&fontColor=181a3e&fontSize=60" />
     </div>
     
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongMoonKi)](https://github.com/anuraghazra/github-readme-stats)
 
